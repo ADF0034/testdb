@@ -1,5 +1,5 @@
 {  
-  "posts": [
+  [
     {
         "Description": "&Tradition Flowerpot VP1 Ø: 23 cm - Matt White ",
         "OnHand": "15",
@@ -9,7 +9,4 @@
         "fejlbesked": null
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
